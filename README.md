@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![logo](https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif)
 <h1 align="center">Hi 👋, I'm Jitendra Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*tZl19oAzRw300ociN47vvg.gif">
